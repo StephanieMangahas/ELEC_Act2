@@ -128,18 +128,18 @@ body {
 .footer-line {
   width: 100%;
   margin: 0 auto;
-  border: 1px solid rgb(99, 95, 95); /* Line color */
+  border: 1px solid rgb(99, 95, 95);
 }
 
 .footer-links {
   display: flex;
-  justify-content: flex-start; /* Align items to the start (left) */
-  margin-top: 10px; /* Adjust as needed */
+  justify-content: flex-start;
+  margin-top: 10px;
   margin-left: 150px;
 }
 
 .footer p {
-  margin-right: 20px; /* Add space between the words */
+  margin-right: 20px;
   color: rgb(147, 146, 146);
 }
 
